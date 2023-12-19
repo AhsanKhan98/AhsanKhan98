@@ -4,7 +4,8 @@ Love new challenges and am always eager to learn new technologies.
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahsankhan99/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge&logoSize=20)](https://www.linkedin.com/in/ahsankhan99/)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-Ahsan%20Khan-9cf?style=for-the-badge&logo=react&logoColor=white)](https://ahsanmkhan.vercel.app/)
 
 # 💻 Tech Stack:
