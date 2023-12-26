@@ -2,6 +2,8 @@
 Software developer with a technical background in Full stack engineering.
 Love new challenges and am always eager to learn new technologies.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AhsanKhan98&label=Profile%20views&color=0e75b6&style=flat" alt="AhsanKhan98" /> </p>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge&logoSize=20)](https://www.linkedin.com/in/ahsankhan99/)
@@ -16,5 +18,3 @@ Love new challenges and am always eager to learn new technologies.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AhsanKhan98&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhsanKhan98&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-[![](https://visitcount.itsvg.in/api?id=AhsanKhan96&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
